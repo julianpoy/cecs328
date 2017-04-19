@@ -1,0 +1,231 @@
+Leave Hospital Event 0
+Leave Hospital Event 0
+Leave Hospital Event 0
+Leave Hospital Event 0
+Leave Hospital Event 0
+Leave Hospital Event 0
+Leave Hospital Event 0
+Leave Hospital Event 0
+Leave Hospital Event 0
+Leave Hospital Event 0
+LoadVictim Event 2 VictimID: 1
+LoadVictim Event 3 VictimID: 6
+RescueVictim Event 5
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+RescueVictim Event 6
+Disregarded victim to not kill current victim in truck
+Loaded a second victim
+ArriveHospital Event 7
+UnloadVictim Event 8
+Victim Saved ID: 1
+Leave Hospital Event 8
+Ambulance unparking
+LoadVictim Event 1 VictimID: 10
+RescueVictim Event 4
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Loaded a second victim
+LoadVictim Event 9 VictimID: 4
+LoadVictim Event 12 VictimID: 8
+RescueVictim Event 12
+Loaded a second victim
+LoadVictim Event 12 VictimID: 2
+LoadVictim Event 12 VictimID: 9
+LoadVictim Event 12 VictimID: 5
+LoadVictim Event 12 VictimID: 7
+LoadVictim Event 13 VictimID: 17
+LoadVictim Event 13 VictimID: 12
+RescueVictim Event 15
+Loaded a second victim
+LoadVictim Event 12 VictimID: 13
+RescueVictim Event 15
+Loaded a second victim
+LoadVictim Event 14 VictimID: 16
+LoadVictim Event 15 VictimID: 0
+RescueVictim Event 15
+RescueVictim Event 15
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+RescueVictim Event 15
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+RescueVictim Event 15
+Loaded a second victim
+LoadVictim Event 11 VictimID: 15
+RescueVictim Event 14
+RescueVictim Event 16
+RescueVictim Event 16
+LoadVictim Event 16 VictimID: 11
+ArriveHospital Event 17
+ArriveHospital Event 17
+RescueVictim Event 17
+ArriveHospital Event 17
+RescueVictim Event 18
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+UnloadVictim Event 18
+Victim Saved ID: 2
+Victim Saved ID: 15
+UnloadVictim Event 18
+Victim Saved ID: 8
+Leave Hospital Event 18
+Ambulance unparking
+LoadVictim Event 4 VictimID: 14
+RescueVictim Event 7
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Loaded a second victim
+LoadVictim Event 12 VictimID: 21
+RescueVictim Event 15
+Leave Hospital Event 18
+Ambulance unparking
+LoadVictim Event 1 VictimID: 18
+RescueVictim Event 4
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+ArriveHospital Event 5
+UnloadVictim Event 6
+Victim Saved ID: 18
+Leave Hospital Event 6
+Ambulance unparking
+LoadVictim Event 1 VictimID: 19
+RescueVictim Event 4
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+ArriveHospital Event 5
+UnloadVictim Event 6
+Victim Saved ID: 19
+Leave Hospital Event 6
+Ambulance unparking
+LoadVictim Event 9 VictimID: 23
+RescueVictim Event 12
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+Disregarded victim to not kill current victim in truck
+UnloadVictim Event 18
+Victim Saved ID: 9
+Leave Hospital Event 18
+Ambulance unparking
+Hospital ambulance found no victim to pick up.
+ArriveHospital Event 19
+RescueVictim Event 19
+LoadVictim Event 19 VictimID: 3
+ArriveHospital Event 19
+UnloadVictim Event 20
+Victim Saved ID: 5
+Victim Saved ID: 16
+UnloadVictim Event 20
+Victim Saved ID: 7
+Victim Saved ID: 13
+Leave Hospital Event 20
+Ambulance unparking
+Hospital ambulance found no victim to pick up.
+Leave Hospital Event 20
+Ambulance unparking
+Hospital ambulance found no victim to pick up.
+ArriveHospital Event 20
+ArriveHospital Event 21
+UnloadVictim Event 21
+Victim Saved ID: 4
+Victim Saved ID: 12
+Leave Hospital Event 21
+Ambulance unparking
+Hospital ambulance found no victim to pick up.
+UnloadVictim Event 22
+Victim Saved ID: 23
+RescueVictim Event 22
+Leave Hospital Event 22
+Ambulance unparking
+Hospital ambulance found no victim to pick up.
+ArriveHospital Event 23
+ArriveHospital Event 23
+UnloadVictim Event 24
+Victim Saved ID: 0
+UnloadVictim Event 24
+Victim Saved ID: 3
+Leave Hospital Event 24
+Ambulance unparking
+Hospital ambulance found no victim to pick up.
+Leave Hospital Event 24
+Ambulance unparking
+Hospital ambulance found no victim to pick up.
+ArriveHospital Event 28
+UnloadVictim Event 29
+Victim Saved ID: 6
+Victim Saved ID: 11
+Leave Hospital Event 29
+Ambulance unparking
+Hospital ambulance found no victim to pick up.
+ArriveHospital Event 30
+ArriveHospital Event 31
+UnloadVictim Event 31
+Victim Saved ID: 10
+Victim Saved ID: 17
+Leave Hospital Event 31
+Ambulance unparking
+Hospital ambulance found no victim to pick up.
+UnloadVictim Event 32
+Victim Saved ID: 14
+Victim Saved ID: 21
+Leave Hospital Event 32
+Ambulance unparking
+Hospital ambulance found no victim to pick up.
+| Victim ID|  Position|    S-Time|     Saved|
+|         0|   (50,55)|        35|      true|
+|         1|   (48,64)|        42|      true|
+|         2|   (49,53)|        32|      true|
+|         3|   (53,56)|        39|      true|
+|         4|   (53,48)|        31|      true|
+|         5|   (51,47)|        28|      true|
+|         6|   (52,51)|        33|      true|
+|         7|   (52,50)|        32|      true|
+|         8|   (52,60)|        42|      true|
+|         9|   (47,65)|        42|      true|
+|        10|   (57,54)|        31|      true|
+|        11|   (69,50)|        39|      true|
+|        12|   (57,57)|        34|      true|
+|        13|   (56,58)|        34|      true|
+|        14|   (64,50)|        34|      true|
+|        15|   (62,51)|        33|      true|
+|        16|   (56,56)|        32|      true|
+|        17|   (63,61)|        44|      true|
+|        18|   (60,51)|        31|      true|
+|        19|   (58,53)|        31|      true|
+|        20|   (57,72)|        39|     false|
+|        21|   (66,60)|        36|      true|
+|        22|   (77,56)|        43|     false|
+|        23|   (57,62)|        29|      true|
+|        24|   (65,65)|        40|     false|
+|        25|   (58,69)|        37|     false|
+|        26|   (61,56)|        27|     false|
+|        27|   (65,57)|        32|     false|
+|        28|   (63,70)|        43|     false|
+|        29|   (65,56)|        31|     false|
+Saved: 22
+Perished: 8
